@@ -8,6 +8,7 @@ A content-based movie recommendation system using TF-IDF vectorization and cosin
   - `title` column: Movie titles
   - `genres` column: Pipe-separated genres (e.g., "Action|Adventure|Sci-Fi")
 - Place the `movies.csv` file in the same directory as the notebook
+ Link to download --> https://grouplens.org/datasets/movielens/32m/
 
 ## Setup
 ### Requirements
